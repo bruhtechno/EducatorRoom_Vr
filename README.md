@@ -5,3 +5,5 @@ In AR, digital information is overlaid onto the physical world, allowing student
 
 VR, on the other hand, completely immerses the user in a digital environment, often using a headset and handheld controllers. This can allow students to experience simulations or virtual field trips that would be otherwise impossible or impractical in real life. For example, a student could visit ancient Rome or take a virtual tour of a distant planet. VR can also be used to provide simulations for training or practice, such as in medical or military education. Overall, immersive AR and VR experiences can provide a dynamic and interactive way for students to learn and engage with educational content.
 
+ 
+ 
